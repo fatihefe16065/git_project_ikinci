@@ -8,7 +8,7 @@ public class Deneme {
 		System.out.println("2.Satir kodum");
 		System.out.println("Remote degisiklik");
 		
-		System.out.println("Cakisma - Oguzhan");
+		System.out.println("Cakisma (conflict) - Oguzhan");
 
 	}
 
